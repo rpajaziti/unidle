@@ -16,6 +16,17 @@
                        type="application/octet-stream"
                        sparkle:edSignature="GDh+GCd+XK9fwcAt3vV0oQZACi7vdsyouFXikRj0eXArSUjbow2k3uOWVL0vRWK/C0qbxvhueiPig/PQLv7yCA==" />
         </item>
-        <!-- ITEMS -->
+                <item>
+            <title>Version 0.1.1</title>
+            <pubDate>Fri, 07 Aug 2026 21:52:39 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/rpajaziti/vigil/releases/download/v0.1.1-4/Vigil.dmg"
+                       length="1798247"
+                       type="application/octet-stream"
+                       sparkle:edSignature="XyR9EFt7dS+TFKKFUJa0sr0OHbnQck0Hkt9LFBTVa67iJQRfBqFWpjYPwnF6ahVL0LRVkkcgF/RFg2JbaaBFBA==" />
+        </item>
+<!-- ITEMS -->
     </channel>
 </rss>
