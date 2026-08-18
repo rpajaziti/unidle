@@ -1,43 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Vigil</title>
-        <link>https://raw.githubusercontent.com/rpajaziti/vigil/main/appcast.xml</link>
-        <description>Vigil release updates</description>
+        <title>UnIdle</title>
+        <link>https://raw.githubusercontent.com/rpajaziti/unidle/main/appcast.xml</link>
+        <description>UnIdle release updates</description>
         <language>en</language>
-        <item>
-            <title>Version 0.1.0</title>
-            <pubDate>Fri, 07 Aug 2026 21:17:14 +0000</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rpajaziti/vigil/releases/download/v0.1.0-3/Vigil.dmg"
-                       length="1798434"
-                       type="application/octet-stream"
-                       sparkle:edSignature="GDh+GCd+XK9fwcAt3vV0oQZACi7vdsyouFXikRj0eXArSUjbow2k3uOWVL0vRWK/C0qbxvhueiPig/PQLv7yCA==" />
-        </item>
-                <item>
-            <title>Version 0.1.1</title>
-            <pubDate>Fri, 07 Aug 2026 21:52:39 +0000</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rpajaziti/vigil/releases/download/v0.1.1-4/Vigil.dmg"
-                       length="1798247"
-                       type="application/octet-stream"
-                       sparkle:edSignature="XyR9EFt7dS+TFKKFUJa0sr0OHbnQck0Hkt9LFBTVa67iJQRfBqFWpjYPwnF6ahVL0LRVkkcgF/RFg2JbaaBFBA==" />
-        </item>
-        <item>
-            <title>Version 0.1.2</title>
-            <pubDate>Fri, 07 Aug 2026 22:00:28 +0000</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rpajaziti/vigil/releases/download/v0.1.2-5/Vigil.dmg"
-                       length="1797814"
-                       type="application/octet-stream"
-                       sparkle:edSignature="t23jJRZzKGlRpdwLWAAPM+A8QhPsWZNTPqWK6nj6Iq0rLy3fqEy6nG9xnGRDmc4EhrOy9hOsoC/ABsQavKGUCw==" />
-        </item>
         <item>
             <title>Version 0.1.0</title>
             <pubDate>Tue, 18 Aug 2026 13:55:53 +0000</pubDate>
