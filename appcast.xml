@@ -38,6 +38,17 @@
                        type="application/octet-stream"
                        sparkle:edSignature="t23jJRZzKGlRpdwLWAAPM+A8QhPsWZNTPqWK6nj6Iq0rLy3fqEy6nG9xnGRDmc4EhrOy9hOsoC/ABsQavKGUCw==" />
         </item>
+        <item>
+            <title>Version 0.1.0</title>
+            <pubDate>Tue, 18 Aug 2026 13:55:53 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/rpajaziti/unidle/releases/download/v0.1.0-6/UnIdle.dmg"
+                       length="2258978"
+                       type="application/octet-stream"
+                       sparkle:edSignature="xr4nTf3/ggJsI0vBlI6fhdAqntui7SEl04O+kq1q69M1wZ/1zW9NcjqNKoSRlbeh0fcSrAJAZ6Y76nCoPzLpCA==" />
+        </item>
 <!-- ITEMS -->
     </channel>
 </rss>
