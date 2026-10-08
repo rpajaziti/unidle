@@ -66,6 +66,7 @@
             <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Fixed</h3><ul><li>Panel appearance no longer breaks in Dark Mode — the outer panel background now matches the system theme correctly instead of staying stuck light.</li><li>Fixed the popover panel unexpectedly closing when opening Activity History (and the window flashing shut again on reopen).</li><li>Fixed the awake-mode tabs (Off / AI Active / Always) not filling the full width of their row.</li><li>Switching between Off / AI Active / Always no longer shifts the cards below it up or down.</li></ul><h3>Added</h3><ul><li>New Appearance setting (Settings → General): Light / Dark / Auto, defaults to Auto (follows system, same as before).</li><li>Awake-mode tabs now show a short explanation of what the selected mode does.</li><li>Activity History entries are now grouped by day and collapsible, one day open at a time.</li></ul><h3>Changed</h3><ul><li>"While AI is active" mode shortened to "AI Active" in the tab label (full meaning now shown underneath instead).</li></ul><p>Signed &amp; notarized by Apple. Installs cleanly, no Gatekeeper warnings.</p>]]></description>
             <enclosure url="https://github.com/rpajaziti/unidle/releases/download/v0.1.2-11/UnIdle.dmg"
                        length="2687664"
                        type="application/octet-stream"
