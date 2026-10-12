@@ -84,6 +84,18 @@
                        type="application/octet-stream"
                        sparkle:edSignature="ljWFebKlYbjOJcz3NMkpL4tAztKLLJBv3ufEp4MZqrpDTIT6CVpFwb1wkRSmmldDlAMIAO1BzMesm4AQUH/XDw==" />
         </item>
+        <item>
+            <title>Version 0.1.4</title>
+            <pubDate>Mon, 12 Oct 2026 15:10:18 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>✨ Added</h3><ul><li>The <b>Activity Log records every lid close</b> — whether UnIdle <b>kept the Mac awake</b> (and for which agent), or <b>why it slept</b>: no agent working, Always mode with nothing running, Pro needed, or lid-close switched off.</li><li>It also logs <b>when the Mac slept and woke</b>, and when the lid was opened.</li><li>Entries now show the <b>agent and project</b>, e.g. &quot;Awake — Claude Code · billing-v2 running&quot;.</li></ul><h3>🐛 Fixed</h3><ul><li><b>Your licence key is kept after updating to 0.1.3.</b> It&#x27;s moved out of the Keychain silently, so <b>Uninstall and Deactivate free this Mac&#x27;s slot</b> again. No password prompts.</li></ul><p>Signed &amp; notarized by Apple. Installs cleanly, no Gatekeeper warnings.</p>]]></description>
+            <enclosure url="https://github.com/rpajaziti/unidle/releases/download/v0.1.4-13/UnIdle.dmg"
+                       length="2762572"
+                       type="application/octet-stream"
+                       sparkle:edSignature="LKlliciSH/Qe64Rr8si3FTdKHfdt47OXd1rVt4saRZf2702CnwyH8hSTdyP11uVumbvzZpZDgnAHk+3EJgX+BA==" />
+        </item>
 <!-- ITEMS -->
     </channel>
 </rss>
