@@ -108,6 +108,18 @@
                        type="application/octet-stream"
                        sparkle:edSignature="KxlH4O86qc+ES0g9wHUgQ3UFSe7TJcYSywcKl0tZYcYKtuc5LGpzsda+4w1zcI45sq2IrO1gzXH9zDhI3tz6DQ==" />
         </item>
+        <item>
+            <title>Version 0.1.6</title>
+            <pubDate>Wed, 21 Oct 2026 20:47:00 +0000</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>UnIdle 0.1.6</p><h3>Changed</h3><ul><li>Phone alerts now carry only the project and what happened (&quot;my-app — finished&quot;). Claude&#x27;s replies, commands and questions stay on your Mac, never on the public relay.</li><li>A Pro license works on one Mac. To move it, deactivate it on the old Mac first (Pro › Manage).</li></ul><h3>Added</h3><ul><li>Copy license key in Pro › Manage, without showing it on screen.</li></ul><p>Signed &amp; notarized by Apple. Installs cleanly, no Gatekeeper warnings.</p>]]></description>
+            <enclosure url="https://github.com/rpajaziti/unidle/releases/download/v0.1.6-15/UnIdle.dmg"
+                       length="2794818"
+                       type="application/octet-stream"
+                       sparkle:edSignature="+Ib1N9tQGNaLmwkq0HffnKRZ60Dq+AvFSBmxeuRw4io+XU+b2lF96F6A4Wxxlfg3NxNWbi4pU8bITFPwKZKuDQ==" />
+        </item>
 <!-- ITEMS -->
     </channel>
 </rss>
