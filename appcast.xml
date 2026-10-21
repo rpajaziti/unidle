@@ -96,6 +96,18 @@
                        type="application/octet-stream"
                        sparkle:edSignature="LKlliciSH/Qe64Rr8si3FTdKHfdt47OXd1rVt4saRZf2702CnwyH8hSTdyP11uVumbvzZpZDgnAHk+3EJgX+BA==" />
         </item>
+        <item>
+            <title>Version 0.1.5</title>
+            <pubDate>Wed, 21 Oct 2026 17:24:03 +0000</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>UnIdle 0.1.5</p><h3>Fixed</h3><ul><li>Finished alerts now show the start of Claude&#x27;s actual reply instead of &quot;Ready for your next prompt&quot;, including long, multi-paragraph replies.</li><li>Deactivate this device works again: it now confirms inside the Manage popover.</li><li>One Claude Code session no longer shows up as two rows in Live Sessions.</li><li>Without hooks, activity detection counts tool calls and real work, and only watches each session&#x27;s own project folder.</li></ul><h3>Changed</h3><ul><li>Every alert names the project: &quot;&lt;project&gt; — finished&quot;, &quot;— needs permission&quot; or &quot;— has a question&quot;.</li><li>Questions from Claude get their own alert with the question text.</li><li>Claude Code hooks are always on. To remove them, use Settings › General › Disconnect from Claude Code.</li></ul><h3>Added</h3><ul><li>Gift Pro and one-click activation links from the license email.</li></ul><p>Signed &amp; notarized by Apple. Installs cleanly, no Gatekeeper warnings.</p>]]></description>
+            <enclosure url="https://github.com/rpajaziti/unidle/releases/download/v0.1.5-14/UnIdle.dmg"
+                       length="2792982"
+                       type="application/octet-stream"
+                       sparkle:edSignature="KxlH4O86qc+ES0g9wHUgQ3UFSe7TJcYSywcKl0tZYcYKtuc5LGpzsda+4w1zcI45sq2IrO1gzXH9zDhI3tz6DQ==" />
+        </item>
 <!-- ITEMS -->
     </channel>
 </rss>
