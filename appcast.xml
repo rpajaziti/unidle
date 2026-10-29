@@ -132,6 +132,18 @@
                        type="application/octet-stream"
                        sparkle:edSignature="lnQYgz+ZefX2lJ9Gbuef3drfh84jMT6elp2a20gpuYYxZgC+++89CAx5yEqsT7Iq3scOVQhsrHwd6vMLvtGSCg==" />
         </item>
+        <item>
+            <title>Version 0.1.8</title>
+            <pubDate>Thu, 29 Oct 2026 14:57:42 +0000</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>UnIdle 0.1.8</p><h3>Fixed</h3><ul><li>Pasting a license key and clicking Activate now shows the result: &quot;You are Pro&quot;, or why it was refused (for example, the key is already on two Macs). Before, the popover just closed.</li></ul><p>Signed &amp; notarized by Apple. Installs cleanly, no Gatekeeper warnings.</p>]]></description>
+            <enclosure url="https://github.com/rpajaziti/unidle/releases/download/v0.1.8-17/UnIdle.dmg"
+                       length="2801211"
+                       type="application/octet-stream"
+                       sparkle:edSignature="Vb4DdATSfW8VAU+yRBpo1Uh7RaFwmFw2uNEwX0kBFGTZxX9LaUyGnWMWFzBgF60eiNbVSQYUZsGbLCTrLg+fDg==" />
+        </item>
 <!-- ITEMS -->
     </channel>
 </rss>
