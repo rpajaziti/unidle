@@ -144,6 +144,18 @@
                        type="application/octet-stream"
                        sparkle:edSignature="Vb4DdATSfW8VAU+yRBpo1Uh7RaFwmFw2uNEwX0kBFGTZxX9LaUyGnWMWFzBgF60eiNbVSQYUZsGbLCTrLg+fDg==" />
         </item>
+        <item>
+            <title>Version 0.1.9</title>
+            <pubDate>Sat, 31 Oct 2026 20:15:37 +0000</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>New</h3><ul><li>Off, AI Active and Always are now tabs, with what each one does right under them.</li><li>&quot;Lock screen &amp; walk away&quot; says what happens: the screen locks, the display sleeps, your agents keep working.</li><li>After 3 hours in Always, UnIdle offers to switch back to AI Active, so your Mac can sleep tonight.</li><li>Every (i) now opens a short explanation when you click it.</li></ul><h3>Better</h3><ul><li>Setup has a clear step-by-step bar, opens centred, and stays in front while you finish it.</li><li>&quot;Deactivate at&quot; fits on one line.</li><li>Plan shows as Plan: Pro, Plan: Free or Plan: Trial with the days left.</li></ul><h3>Removing UnIdle</h3><ul><li>Dragged UnIdle to the Trash? Its lid-close helper and Claude Code hooks now remove themselves. Settings › Uninstall UnIdle still removes everything at once.</li><li>Reinstalling shows the setup again. Your Pro license is kept.</li></ul><p>Signed &amp; notarized by Apple. Installs cleanly, no Gatekeeper warnings.</p>]]></description>
+            <enclosure url="https://github.com/rpajaziti/unidle/releases/download/v0.1.9-18/UnIdle.dmg"
+                       length="2840135"
+                       type="application/octet-stream"
+                       sparkle:edSignature="GK3t+iREy4RcgirvIVkkysgUEqyjy7st6Htnb0Jni3pOekuZ/Qn9QYf2wXVF6kGxbNnAYNWsSEjCNRpPeWO1BQ==" />
+        </item>
 <!-- ITEMS -->
     </channel>
 </rss>
