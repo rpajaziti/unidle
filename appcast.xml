@@ -168,6 +168,18 @@
                        type="application/octet-stream"
                        sparkle:edSignature="TyCyhelSjSmOHpALlBzc/1mPaMj0zOtrqfk1e0i5GonWZ4CW1NCFZcEnvqADt8XgvrOWoNuAG6PfE/c7KD5xCg==" />
         </item>
+        <item>
+            <title>Version 0.1.11</title>
+            <pubDate>Sun, 01 Nov 2026 15:18:24 +0000</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Fixed</h3><ul><li>Right after UnIdle starts or updates, an agent that has been open for hours (like the Codex built into the ChatGPT app) no longer shows as running or keeps your Mac awake. It counts again as soon as it actually works.</li><li>All settings now has the same margins as the main panel.</li></ul><h3>Changed</h3><ul><li>Keep display on has an (i) that explains it: off lets the display sleep and lock as usual while your agents keep running.</li></ul><p>Signed &amp; notarized by Apple. Installs cleanly, no Gatekeeper warnings.</p>]]></description>
+            <enclosure url="https://github.com/rpajaziti/unidle/releases/download/v0.1.11-20/UnIdle.dmg"
+                       length="2795363"
+                       type="application/octet-stream"
+                       sparkle:edSignature="UEp4YY4uMtJ/ULW+IcANqSaXgOq1tiIvIUuXRvuxfJ+BcHMfR+YwCygLMPVJiJ5kVe8tBMOQ801Y7gRAq7D3Dg==" />
+        </item>
 <!-- ITEMS -->
     </channel>
 </rss>
