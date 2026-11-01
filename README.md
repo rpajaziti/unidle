@@ -35,6 +35,8 @@ UnIdle is a small menu bar app for people who run Claude Code, Codex, Aider, Cur
 
 No account. Every release is signed with a Developer ID and notarized by Apple. Updates install themselves through [Sparkle](https://sparkle-project.org/) and keep your permissions.
 
+macOS may show "Software from Ramadan Pajaziti can run in the background". That's UnIdle: Ramadan Pajaziti is the developer whose Apple certificate signs it.
+
 ## Free vs Pro
 
 | | Free | Pro — $12 once |
@@ -84,4 +86,4 @@ This repo holds the release DMGs ([Releases](https://github.com/rpajaziti/unidle
 
 ---
 
-UnIdle is not affiliated with Anthropic, OpenAI, Google or any AI agent vendor. Made by [MergeHub](https://mergehub.dev).
+UnIdle is not affiliated with Anthropic, OpenAI, Google or any AI agent vendor. Made by [Ramadan Pajaziti](https://github.com/rpajaziti) at [MergeHub](https://mergehub.dev).
