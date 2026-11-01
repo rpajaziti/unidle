@@ -156,6 +156,18 @@
                        type="application/octet-stream"
                        sparkle:edSignature="GK3t+iREy4RcgirvIVkkysgUEqyjy7st6Htnb0Jni3pOekuZ/Qn9QYf2wXVF6kGxbNnAYNWsSEjCNRpPeWO1BQ==" />
         </item>
+        <item>
+            <title>Version 0.1.10</title>
+            <pubDate>Sun, 01 Nov 2026 14:55:04 +0000</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Changed</h3><ul><li>Always&#x27;s end time now sits in the Always tab: &quot;Ends at [time]&quot;. AI Active already ends by itself once your agents are done.</li><li>Every Pro feature is free to try for 7 days. A trial you already started keeps its 14 days.</li><li>One panel layout for everyone: the Windowed / All-in-one choice is gone.</li></ul><h3>Fixed</h3><ul><li>An end time after midnight (for example 01:16) no longer keeps Always paused for the whole day.</li></ul><p>Signed &amp; notarized by Apple. Installs cleanly, no Gatekeeper warnings.</p>]]></description>
+            <enclosure url="https://github.com/rpajaziti/unidle/releases/download/v0.1.10-19/UnIdle.dmg"
+                       length="2818674"
+                       type="application/octet-stream"
+                       sparkle:edSignature="TyCyhelSjSmOHpALlBzc/1mPaMj0zOtrqfk1e0i5GonWZ4CW1NCFZcEnvqADt8XgvrOWoNuAG6PfE/c7KD5xCg==" />
+        </item>
 <!-- ITEMS -->
     </channel>
 </rss>
