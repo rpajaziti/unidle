@@ -180,6 +180,18 @@
                        type="application/octet-stream"
                        sparkle:edSignature="UEp4YY4uMtJ/ULW+IcANqSaXgOq1tiIvIUuXRvuxfJ+BcHMfR+YwCygLMPVJiJ5kVe8tBMOQ801Y7gRAq7D3Dg==" />
         </item>
+        <item>
+            <title>Version 0.1.12</title>
+            <pubDate>Tue, 03 Nov 2026 11:02:26 +0000</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Fixed</h3><ul><li>Onboarding no longer shows again after an update that installed itself while your Mac restarted.</li><li>Closing the welcome window with the red button now counts as Skip setup, so it doesn&#x27;t come back at the next launch.</li></ul><p>Signed &amp; notarized by Apple. Installs cleanly, no Gatekeeper warnings.</p>]]></description>
+            <enclosure url="https://github.com/rpajaziti/unidle/releases/download/v0.1.12-21/UnIdle.dmg"
+                       length="2797050"
+                       type="application/octet-stream"
+                       sparkle:edSignature="ZZomy+BBaCONdCSxYsLhyGnDH4GZp3yDuML/x9rpaDMHCsODMLXWFNWJBlybEapZVQyNRhECoumhG3p6Y+TGAg==" />
+        </item>
 <!-- ITEMS -->
     </channel>
 </rss>
