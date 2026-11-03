@@ -47,7 +47,7 @@ macOS may show "Software from Ramadan Pajaziti can run in the background". That'
 | Battery floor, launch at login | ✅ | ✅ |
 | Mac alerts when an agent finishes or needs permission | ✅ | ✅ |
 | Keeps running with the lid shut on battery | | ✅ |
-| Alerts on your phone, with Approve / Deny (via [ntfy](https://ntfy.sh)) | | ✅ |
+| Alerts on your phone (via [ntfy](https://ntfy.sh)), with Approve / Deny in beta | | ✅ |
 | An end time for Always | | ✅ |
 | Mouse Motion keep-awake | | ✅ |
 
