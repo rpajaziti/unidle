@@ -192,6 +192,18 @@
                        type="application/octet-stream"
                        sparkle:edSignature="ZZomy+BBaCONdCSxYsLhyGnDH4GZp3yDuML/x9rpaDMHCsODMLXWFNWJBlybEapZVQyNRhECoumhG3p6Y+TGAg==" />
         </item>
+        <item>
+            <title>Version 0.1.13</title>
+            <pubDate>Fri, 06 Nov 2026 23:29:47 +0000</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>UnIdle 0.1.13</p><h3>Added</h3><ul><li>When Claude finishes, the alert on your phone now shows the first words of its reply. You can turn that off under Settings &gt; Push to my phone.</li><li>A one-time You&#x27;re Pro welcome card after you activate Pro, with your share link.</li></ul><h3>Changed</h3><ul><li>Pairing your phone: the QR code opens large when you switch Push to my phone on, then hides behind a Show QR button. The code copies with one click.</li><li>Phone alerts no longer have Approve and Deny buttons, which did not reach Claude Code.</li></ul><h3>Fixed</h3><ul><li>Buy opens the checkout in Safari when your browser is running twice, instead of showing nothing.</li><li>The panel no longer flashes the last page when you open it again.</li></ul><p>Signed &amp; notarized by Apple. Installs cleanly, no Gatekeeper warnings.</p>]]></description>
+            <enclosure url="https://github.com/rpajaziti/unidle/releases/download/v0.1.13-22/UnIdle.dmg"
+                       length="2838895"
+                       type="application/octet-stream"
+                       sparkle:edSignature="z9ksoAhGW3DxXyJD1xOvP3PFvWpMjAr+96S5WiIMHB82wUGdWp/ACpsc4BQmtEh6UsnvTQMLrAcLmyjJX8v1Bw==" />
+        </item>
 <!-- ITEMS -->
     </channel>
 </rss>
