@@ -210,7 +210,7 @@
             <sparkle:version>23</sparkle:version>
             <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p>UnIdle 0.1.14 (build 23)</p><p>Signed &amp; notarized by Apple. Installs cleanly, no Gatekeeper warnings.</p>]]></description>
+            <description><![CDATA[<h3>What's new</h3><ul><li><b>Your Mac goes back to sleep when the work is done.</b> If UnIdle kept it awake with the lid closed, it now sleeps 30 seconds after your agents finish, plugged in or on battery (not while an external display is connected).</li><li><b>Claude app chats that use your Mac keep it awake.</b> With your Mac linked in a chat (the laptop icon), UnIdle keeps it awake while Claude runs commands on it.</li><li><b>Commands that outlive the turn keep it awake.</b> A build or test run an agent left running in the background holds the Mac until it ends (up to an hour each).</li><li>Smaller: Claude app Code sessions are named, panel rows no longer jump around, and every setting explains itself in an (i).</li></ul><p>Signed &amp; notarized by Apple. Installs cleanly, no Gatekeeper warnings.</p>]]></description>
             <enclosure url="https://github.com/rpajaziti/unidle/releases/download/v0.1.14-23/UnIdle.dmg"
                        length="2895521"
                        type="application/octet-stream"
