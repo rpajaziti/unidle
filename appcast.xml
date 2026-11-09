@@ -204,6 +204,18 @@
                        type="application/octet-stream"
                        sparkle:edSignature="z9ksoAhGW3DxXyJD1xOvP3PFvWpMjAr+96S5WiIMHB82wUGdWp/ACpsc4BQmtEh6UsnvTQMLrAcLmyjJX8v1Bw==" />
         </item>
+        <item>
+            <title>Version 0.1.14</title>
+            <pubDate>Mon, 09 Nov 2026 15:15:24 +0000</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>UnIdle 0.1.14 (build 23)</p><p>Signed &amp; notarized by Apple. Installs cleanly, no Gatekeeper warnings.</p>]]></description>
+            <enclosure url="https://github.com/rpajaziti/unidle/releases/download/v0.1.14-23/UnIdle.dmg"
+                       length="2895521"
+                       type="application/octet-stream"
+                       sparkle:edSignature="pNBlZPPS9g+uaOOwGOLLa7aDwNqPbbEDHJu7I+AFIcgaHOucnYcZnW4u9my3HSjtTrLWlyK2mEPsGsk2GV/7DQ==" />
+        </item>
 <!-- ITEMS -->
     </channel>
 </rss>
