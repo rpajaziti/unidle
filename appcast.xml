@@ -216,6 +216,18 @@
                        type="application/octet-stream"
                        sparkle:edSignature="pNBlZPPS9g+uaOOwGOLLa7aDwNqPbbEDHJu7I+AFIcgaHOucnYcZnW4u9my3HSjtTrLWlyK2mEPsGsk2GV/7DQ==" />
         </item>
+        <item>
+            <title>Version 0.1.15</title>
+            <pubDate>Tue, 10 Nov 2026 18:36:54 +0000</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>UnIdle 0.1.15</p><h3>Changed</h3><ul><li><b>A refunded license now says so.</b> If a purchase is refunded or charged back, UnIdle tells you the license was <i>refunded</i> and Pro switches off at the next daily check, instead of the generic &quot;this Mac was removed from your license&quot;. Activating a refunded key says the same.</li><li>The You&#x27;re Pro card calls the Always-on feature <i>A timer for Always on</i>, as the website does.</li></ul><p>Signed &amp; notarized by Apple. Installs cleanly, no Gatekeeper warnings.</p>]]></description>
+            <enclosure url="https://github.com/rpajaziti/unidle/releases/download/v0.1.15-24/UnIdle.dmg"
+                       length="2895913"
+                       type="application/octet-stream"
+                       sparkle:edSignature="+5m+rVWLhWNxPZaJuKiJF8Da+RIUzQinzcUdk1Cq9ob/dLdpo0MUfASvAdoiq8k7QIlQFctk+HD9vnByPhziBA==" />
+        </item>
 <!-- ITEMS -->
     </channel>
 </rss>
