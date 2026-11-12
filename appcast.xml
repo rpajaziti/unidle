@@ -228,6 +228,18 @@
                        type="application/octet-stream"
                        sparkle:edSignature="+5m+rVWLhWNxPZaJuKiJF8Da+RIUzQinzcUdk1Cq9ob/dLdpo0MUfASvAdoiq8k7QIlQFctk+HD9vnByPhziBA==" />
         </item>
+        <item>
+            <title>Version 0.1.16</title>
+            <pubDate>Thu, 12 Nov 2026 10:11:58 +0000</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>UnIdle 0.1.16</p><h3>Changed</h3><ul><li><b>Your Mac locks itself again while an agent works.</b> <i>Keep display on</i> is now off by default. With it on, the screen saver and display sleep never started, so an unlocked Mac stayed unlocked for the whole run. Now the screen goes dark and locks on your usual timer, and the agent keeps working. If you changed this setting before, your choice is kept.</li></ul><h3>Fixed</h3><ul><li>If your Claude Code <code>settings.json</code> has a typo, UnIdle now leaves it untouched instead of rewriting it with only its own hooks.</li><li>UnIdle&#x27;s hooks now carry a private key, so other programs and web pages can no longer send fake alerts.</li><li>Pro status is checked against your license key at every launch.</li></ul><p>Signed &amp; notarized by Apple. Installs cleanly, no Gatekeeper warnings.</p>]]></description>
+            <enclosure url="https://github.com/rpajaziti/unidle/releases/download/v0.1.16-25/UnIdle.dmg"
+                       length="2912449"
+                       type="application/octet-stream"
+                       sparkle:edSignature="hQB3S0cQ++Uji0BSlk8Vt5U171eAF1yzgCwqJKtD852W0BtMmvtlIQbLw3Gw7DXtgGbvHBPjb+ZyEvtAW1iZCg==" />
+        </item>
 <!-- ITEMS -->
     </channel>
 </rss>
