@@ -240,6 +240,18 @@
                        type="application/octet-stream"
                        sparkle:edSignature="hQB3S0cQ++Uji0BSlk8Vt5U171eAF1yzgCwqJKtD852W0BtMmvtlIQbLw3Gw7DXtgGbvHBPjb+ZyEvtAW1iZCg==" />
         </item>
+        <item>
+            <title>Version 1.0.0</title>
+            <pubDate>Thu, 26 Nov 2026 20:23:33 +0000</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>UnIdle 1.0.0</p><h3>Added</h3><ul><li><b>The lid-close helper is safer.</b> It now gives sleep back on its own if UnIdle freezes, if the battery falls below 5%, or if the Mac restarts while sleep was switched off. UnIdle asks once to update the helper.</li><li><b>Phone alerts get a fresh code.</b> Your phone code is now longer and can be regenerated. Phones paired before need to pair again once; UnIdle tells you.</li></ul><h3>Changed</h3><ul><li><b>Reinstalling keeps your Mac&#x27;s identity</b>, so a reinstall doesn&#x27;t count as a new Mac on your license.</li><li><b>Keyboard shortcuts no longer need the Accessibility permission.</b> Accessibility is only needed for mouse motion now.</li><li><b>Lighter in the background.</b> The check for running agents no longer runs on the main thread, and process names are cached.</li><li>Removed the Approve and Deny buttons on phone alerts, and the local-network code behind them, until they work for real.</li></ul><h3>Fixed</h3><ul><li>A frozen UnIdle could leave a Mac unable to sleep in a bag. The helper now takes sleep back after a few minutes.</li></ul><p>Signed &amp; notarized by Apple. Installs cleanly, no Gatekeeper warnings.</p>]]></description>
+            <enclosure url="https://github.com/rpajaziti/unidle/releases/download/v1.0.0-26/UnIdle.dmg"
+                       length="2943235"
+                       type="application/octet-stream"
+                       sparkle:edSignature="AmDxGRJFbYRfS+G7633DPfK70g3NuX+jkEmSGF3JU56m1iaIiX+4PlwkpUnYx3Bv57IPdWbelkr4SGXgDDk4Aw==" />
+        </item>
 <!-- ITEMS -->
     </channel>
 </rss>
